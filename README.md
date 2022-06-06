@@ -1,4 +1,3 @@
-# Challenge-7
 # ETF_ANALYZER 
 In this application, a financial database and web application are built by using SQL, Python and the Voila library to analyze the performance of aa hypothetical fintech ETF.
 
